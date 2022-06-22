@@ -9,7 +9,7 @@ You will need to have the following tools installed on your system:
 
 The following versions were used to create, build, and test this project:
 ```
-# git --version
+# git --version--
 git version 2.33.0
 
 # java -version
